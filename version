@@ -1,6 +1,9 @@
+<2.0.0>
+- General Update
 <1.0.0>
 - Initial release
 
 -----
+server.lua
 client.lua
 fxmanifest.lua
