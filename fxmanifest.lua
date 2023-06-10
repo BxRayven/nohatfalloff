@@ -11,5 +11,5 @@ server_scripts {
 
 fivem_checker 'yes'
 github 'https://github.com/BxRayven/nohatfalloff'
-version '2.0.0'
+version '1.0.0'
 name '^2No Hat Fall Off'
